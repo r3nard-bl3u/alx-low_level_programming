@@ -1,3 +1,8 @@
+/*
+ * File: 100-sorted_hash_table.c
+ * Auth: Brennan D Baraban
+ */
+
 #include "hash_tables.h"
 
 shash_table_t *shash_table_create(unsigned long int size);
